@@ -1,0 +1,6 @@
+box: sovlin/Grails-Last-Test
+build:
+  steps:
+    - sovlin/grails:
+        version: "2.4.4"
+        options: install
