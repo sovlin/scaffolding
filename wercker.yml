@@ -1,0 +1,6 @@
+box: sovlin/Grails-Last-Test
+build:
+  steps:
+    - sovlin/grails:
+        version: "3.0.0.M1"
+        options: install
